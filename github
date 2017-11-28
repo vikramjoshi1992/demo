@@ -1,0 +1,10 @@
+git config --global user.email "vikramjoshi1991@gmail.com"
+git init
+git add file name
+git add findbyf/
+git commit -m " "
+git status
+git remote add origin https://github.com/vikramjoshi1992/demo
+git push -u origin master
+git push -f origin master
+
